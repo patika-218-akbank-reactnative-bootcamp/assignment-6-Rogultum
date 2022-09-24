@@ -28,3 +28,12 @@ In the map screen, user can see theirself and other users pictures marked on the
 
 In profile screen, users can see their profile picture and username, they can navigate to theme screen where they can change the theme (dark/light) also; they can go to editprofilescreen where they
 can upload a picture from camera/gallery, change their username. Logout button deletes the user data from redux state and async storage and take them back to signin screen.
+
+## For a quick tour of the app:
+
+**https://imgur.com/fuWxawz**
+
+
+
+
+
